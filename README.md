@@ -65,7 +65,7 @@
 
 <a href="https://linkedin.com/in/noah-matthieu-abi-chahla"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="55"/></a>
 
-<a href="https://discord.gg/jubaidaa"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="55"/></a>
+<a href="https://discordapp.com/users/689186567427981387"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="55"/></a>
 
 <a href="https://instagram.com/noah_abi_chahla"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="55"/></a>
 
@@ -117,6 +117,7 @@
 </td></tr></table>
 
 </div>
+
 
 
 
