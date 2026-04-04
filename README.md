@@ -28,12 +28,6 @@
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=Jubaidaa&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubaidaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
